@@ -5,6 +5,10 @@ Generating the css and board with tile configurations.
 Board card object, controller
 {boardCardName: "string", value: int, location: int, mortgageValue: int, img: "string"}
 
+Dana & Tyler
+Dice roll function
+Business information for boardCardName
+
 Chris
 creating GameFactory, UtilitiesFactory
 GameFactory initializes:
